@@ -1,3 +1,7 @@
 a = coffee milk
 
 print(a)
+
+c = black coffe
+
+print(c)
