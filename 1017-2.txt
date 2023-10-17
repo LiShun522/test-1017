@@ -1,3 +1,7 @@
 b = coco milk
 
 print(b)
+
+d = cicili coffee
+
+print(d)
